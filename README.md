@@ -6,6 +6,8 @@
 
 <h3>Features</h3>
 
-<b>Search Functionality:</b> Users can search for electronic gadgets based on their preferences. <br>
-<b>Shopping Cart:</b> Add products to the cart for convenient shopping. <br>
-<b>Checkout Process:</b> Seamless checkout process for a hassle-free shopping experience. <br>
+<ul>
+  <li><b>Search Functionality:</b> Users can search for electronic gadgets based on their preferences.</li> <br>
+  <li><b>Shopping Cart:</b> Add products to the cart for convenient shopping.</li> <br>
+  <li><b>Checkout Process:</b> Seamless checkout process for a hassle-free shopping experience.</li> <br>
+</ul>
